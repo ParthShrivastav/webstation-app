@@ -1,0 +1,15 @@
+export const images = {
+  logo: require('./logo.png'),
+  name: require('./name.jpeg'),
+  restaurant: require('./res.jpeg'),
+  parth: require('./parth.jpeg'),
+  burger: require('./burger.jpg'),
+  frankie: require('./frankie.jpg'),
+  samosa: require('./samosa.jpg'),
+  italian: require('./italian.jpg'),
+  punjabi: require('./punjabi.jpg'),
+  res1: require('./res1.jpg'),
+  res2: require('./res2.jpg'),
+  res3: require('./res3.jpg'),
+  map: require('./map.png'),
+};
